@@ -1,0 +1,11 @@
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\JsonHelper.deps.json
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\JsonHelper.dll
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\JsonHelper.pdb
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\Models.dll
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\Models.pdb
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JsonHelper.csprojAssemblyReference.cache
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JsonHelper.AssemblyInfoInputs.cache
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JsonHelper.AssemblyInfo.cs
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JsonHelper.csproj.CopyComplete
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JsonHelper.dll
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JsonHelper.pdb

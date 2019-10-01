@@ -1,0 +1,8 @@
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\JSONParser.deps.json
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\JSONParser.dll
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\bin\Debug\netcoreapp3.0\JSONParser.pdb
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JSONParser.csprojAssemblyReference.cache
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JSONParser.AssemblyInfoInputs.cache
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JSONParser.AssemblyInfo.cs
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JSONParser.dll
+C:\Users\ANSM5\source\repos\ANSM5_Org2\JSONParser\obj\Debug\netcoreapp3.0\JSONParser.pdb
